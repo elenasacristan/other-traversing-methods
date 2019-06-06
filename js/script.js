@@ -78,9 +78,4 @@ $(".theButton").click(function(){
   $('.superButton').text( col);
 });
     
-    
-    
-    
-
-    
 });
